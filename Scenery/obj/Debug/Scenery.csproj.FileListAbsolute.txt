@@ -30,3 +30,6 @@ C:\Users\Ivan\Documents\Visual Studio 2017\Projects\Scenery\Scenery\obj\Debug\re
 C:\Users\Ivan\Documents\Visual Studio 2017\Projects\Scenery\Scenery\obj\Debug\res\drawable\icon.png
 C:\Users\Ivan\Documents\Visual Studio 2017\Projects\Scenery\Scenery\obj\Debug\R.cs.flag
 C:\Users\Ivan\Documents\Visual Studio 2017\Projects\Scenery\Scenery\obj\Debug\uploadflags.txt
+C:\Users\Ivan\documents\visual studio 2017\Projects\Scenery\Scenery\obj\Debug\Scenery.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Scenery\Scenery\bin\Debug\Scenery.dll.mdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Scenery\Scenery\obj\Debug\android\assets\Scenery.dll.mdb

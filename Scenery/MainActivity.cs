@@ -5,7 +5,7 @@ using Android.Runtime;
 using Android.Content;
 using Android.Views;
 using Android.Gms.Maps;
-using Android.Locations;
+
 using System;
 
 
@@ -16,7 +16,7 @@ namespace Scenery
     public class MainActivity : Activity, IOnMapReadyCallback
     {
         private GoogleMap mMap;
-        public LocationManager locMgr;
+
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -24,8 +24,6 @@ namespace Scenery
 
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
-
-            locMgr = GetSystemService(Context.LocationService) as LocationManager;
 
             SetUpMap();
 
